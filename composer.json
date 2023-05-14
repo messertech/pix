@@ -1,11 +1,11 @@
 {
     "name": "messer/pix",
-    "description": "PHP Library to generate Pix image and string by Gustavo Messer",
+    "description": "PHP Library to generate Pix image and string by Gustavo Ramad Messer",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Gustavo Messer",
+            "name": "Gustavo Ramad Messer",
             "email": "gustavoramadmesser@gmail.com"
         }
     ],
