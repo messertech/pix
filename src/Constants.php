@@ -11,6 +11,9 @@ class Constants
     const VALUE = "JnZhbG9yPQ==";
     const OUTPUT_STRING = "JnNhaWRhPWJy";
     const OUTPUT_IMAGE = "JnNhaWRhPXFy";
-    const KEY = 'JmNoYXZlPQ==';
+    const KEY = "JmNoYXZlPQ==";
+    const JPG = "LmpwZw==";
+    const SIGNATURE = "bWVzc2VycGl4";
+    const DESCRIPTION = "JnR4aWQ9";
     
 }
