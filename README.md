@@ -4,7 +4,7 @@
 [<img src="https://badgen.net/badge/Developed%20for/PHP/blue" />](https://www.php.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is a library developed by Gustavo Messer for Symfony with the goal of generating random Pix keys in image and text formats (Pix copy and paste), using the open source gerarqrcodepix API.
+This is a library developed by Gustavo Ramad Messer for Symfony with the goal of generating random Pix keys in image and text formats (Pix copy and paste), using the open source gerarqrcodepix API.
 
 ## Installation
 
@@ -58,5 +58,5 @@ $pixResponse = $pix->generate($data);
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright © 2023 [Gustavo Messer](https://github.com/messertech/pix/blob/main/LICENSE)
+Copyright © 2023 [Gustavo Ramad Messer](https://github.com/messertech/pix/blob/main/LICENSE)
 
