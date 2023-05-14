@@ -55,3 +55,8 @@ $data = [
 
 $pixResponse = $pix->generate($data);
 ```
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+Copyright © 2023 [Gustavo Messer](https://github.com/messertech/pix/blob/main/LICENSE)
+
