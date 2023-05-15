@@ -24,9 +24,9 @@ use Messer\Pix\Pix;
 $pix = new Pix();
 
 $data = [
-    'name' => 'Gustavo Messer',
+    'name' => 'Gustavo Ramad Messer',
     'city' => 'Santos',
-    'key' => 'gustavomesser',
+    'key' => 'gustavoramadmesser',
     'value' => '77.77',
     'description' => 'Pix String Test',
     'output' => 'string', // optional (default: string)
@@ -44,9 +44,9 @@ use Messer\Pix\Pix;
 $pix = new Pix();
 
 $data = [
-    'name' => 'Gustavo Messer', // required
+    'name' => 'Gustavo Ramad Messer', // required
     'city' => 'Santos', // required
-    'key' => 'gustavomesser', // required
+    'key' => 'gustavoramadmesser', // required
     'value' => '77.77', // optional
     'description' => 'Pix Image Test', // optional
     'output' => 'image', // optional (default: string)
